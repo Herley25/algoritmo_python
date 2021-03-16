@@ -4,3 +4,9 @@
 # - mas não pode ser alterada, como uma string.
 # - são codificadas entre parênteses, e suportam tipos diferentes de dados, 
 # aninhamento e operações normais de sequências.
+
+tupla = ("abacaxi", "macã", "Banana")
+print(len(tupla))
+print(tupla[2])
+  
+
